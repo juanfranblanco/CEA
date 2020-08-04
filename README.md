@@ -106,6 +106,7 @@ Below, find a list of all members and their organizations.
 | [Liminal Village](https://liminalvillage.com) | Josh Fairhead |
 | [Beem](http://www.watchbeem.com/) | Cyprien Grau |
 | [Userbase](https://userbase.com/) | Justin Berman |
+| [Nethereum](https://nethereum.com) |Juan Blanco |
 
 ### Stewards
 
